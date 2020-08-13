@@ -1,0 +1,132 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q28867758,Sinéad Ennis,Q76382,Sinn Féin,10256,Q28231972,2017 Assembly election,1
+Q5106839,Chris Hazzard,Q76382,Sinn Féin,8827,Q28231972,2017 Assembly election,2
+Q24083702,Sinéad Bradley,Q175443,Social Democratic and Labour Party,8906.12,Q28231972,2017 Assembly election,3
+Q6198868,Jim Wells,Q215519,Democratic Unionist Party,10821.64,Q28231972,2017 Assembly election,4
+Q24083703,Colin McGrath,Q175443,Social Democratic and Labour Party,7228.42,Q28231972,2017 Assembly election,5
+,Patrick Brown,Q244927,Alliance Party of Northern Ireland,6730.82,Q28231972,2017 Assembly election,6
+Q24083705,Harold McKee,Q841045,Ulster Unionist Party,4527.76,Q28231972,2017 Assembly election,7
+,Lyle Rea,Q985076,Traditional Unionist Voice,630,Q28231972,2017 Assembly election,8
+,Hannah George,Q1096979,Green Party in Northern Ireland,483,Q28231972,2017 Assembly election,9
+,Patrick Clarke,Q327591,Independent (politician),192,Q28231972,2017 Assembly election,10
+,Gary Hynds,Q7058484,Northern Ireland Conservatives,85,Q28231972,2017 Assembly election,11
+Q6198868,Jim Wells,Q215519,Democratic Unionist Party,6470,Q16973450,2016 Assembly election,1
+Q24083705,Harold McKee,Q841045,Ulster Unionist Party,6141,Q16973450,2016 Assembly election,2
+Q5106839,Chris Hazzard,Q76382,Sinn Féin,7277.50,Q16973450,2016 Assembly election,3
+Q24083702,Sinéad Bradley,Q175443,Social Democratic and Labour Party,6144,Q16973450,2016 Assembly election,4
+Q5017940,Caitríona Ruane,Q76382,Sinn Féin,6664.50,Q16973450,2016 Assembly election,5
+Q24083703,Colin McGrath,Q175443,Social Democratic and Labour Party,5397,Q16973450,2016 Assembly election,6
+Q7459599,Seán Rogers,Q175443,Social Democratic and Labour Party,4595.75,Q16973450,2016 Assembly election,7
+,Michael Gray-Sloan,Q76382,Sinn Féin,3665,Q16973450,2016 Assembly election,8
+,Patrick Brown,Q244927,Alliance Party of Northern Ireland,2869,Q16973450,2016 Assembly election,9
+Q20049328,Henry Reilly,Q985076,Traditional Unionist Voice,2800,Q16973450,2016 Assembly election,10
+Q6247430,John McCallister,Q327591,Independent (politician),1156,Q16973450,2016 Assembly election,11
+,John Hardy,Q1096979,Green Party in Northern Ireland,820,Q16973450,2016 Assembly election,12
+Q501860,Margaret Ritchie,Q175443,Social Democratic and Labour Party,8506,Q7058474,2011 Assembly Election,1
+Q5017940,Caitríona Ruane,Q76382,Sinn Féin,6192.15,Q7058474,2011 Assembly Election,2
+Q6198868,Jim Wells,Q215519,Democratic Unionist Party,6543.28,Q7058474,2011 Assembly Election,3
+Q6247430,John McCallister,Q841045,Ulster Unionist Party,6329.60,Q7058474,2011 Assembly Election,4
+Q16239299,Willie Clarke,Q76382,Sinn Féin,6777.20,Q7058474,2011 Assembly Election,5
+Q6369878,Karen McKevitt,Q175443,Social Democratic and Labour Party,5347.46,Q7058474,2011 Assembly Election,6
+Q5325535,Eamon O'Neill,Q175443,Social Democratic and Labour Party,4882.98,Q7058474,2011 Assembly Election,7
+,Naomi Bailie,Q76382,Sinn Féin,3308.51,Q7058474,2011 Assembly Election,8
+Q20049328,Henry Reilly,Q10647,United Kingdom Independence Party,2398.94,Q7058474,2011 Assembly Election,9
+,Cadogan Enright,Q1096979,Green Party in Northern Ireland,1238.75,Q7058474,2011 Assembly Election,10
+,David Griffin,Q244927,Alliance Party of Northern Ireland,915.15,Q7058474,2011 Assembly Election,11
+Q5017940,Caitríona Ruane,Q76382,Sinn Féin,6676,Q2562399,2007 Assembly Election,1
+Q16239299,Willie Clarke,Q76382,Sinn Féin,7382,Q2562399,2007 Assembly Election,2
+Q501860,Margaret Ritchie,Q175443,Social Democratic and Labour Party,6945,Q2562399,2007 Assembly Election,3
+Q16105286,P. J. Bradley,Q175443,Social Democratic and Labour Party,6650.32,Q2562399,2007 Assembly Election,4
+Q6198868,Jim Wells,Q215519,Democratic Unionist Party,8462.97,Q2562399,2007 Assembly Election,5
+Q6247430,John McCallister,Q841045,Ulster Unionist Party,7720.91,Q2562399,2007 Assembly Election,6
+,Michael Carr,Q175443,Social Democratic and Labour Party,3882.87,Q2562399,2007 Assembly Election,7
+,William Burns,Q215519,Democratic Unionist Party,3064.97,Q2562399,2007 Assembly Election,8
+,Eamonn McConvey,Q76382,Sinn Féin,2778,Q2562399,2007 Assembly Election,9
+,Ciaran Mussen,Q1096979,Green Party of Northern Ireland,2043,Q2562399,2007 Assembly Election,10
+Q20049328,Henry Reilly,Q10647,United Kingdom Independence Party,1354,Q2562399,2007 Assembly Election,11
+,David Griffin,Q244927,Alliance Party of Northern Ireland,755,Q2562399,2007 Assembly Election,12
+,Martin Cunningham,Q16847164,Independent Republican (Ireland),448,Q2562399,2007 Assembly Election,13
+,Frederick Wharton,Q985706,UK Unionist Party,443,Q2562399,2007 Assembly Election,14
+,Peter Bowles,Q7058484,Northern Ireland Conservatives,391,Q2562399,2007 Assembly Election,15
+Q6740829,Malachi Curran,Q6467508,Labour Party of Northern Ireland,123,Q2562399,2007 Assembly Election,16
+Q6198868,Jim Wells,Q215519,Democratic Unionist Party,6789,Q2076187,2003 Assembly Election,1
+Q16105286,P. J. Bradley,Q175443,Social Democratic and Labour Party,7136.96,Q2076187,2003 Assembly Election,2
+Q5262833,Dermot Nesbitt,Q841045,Ulster Unionist Party,8325.72,Q2076187,2003 Assembly Election,3
+Q5017940,Caitríona Ruane,Q76382,Sinn Féin,6035.54,Q2076187,2003 Assembly Election,4
+Q16239299,Willie Clarke,Q76382,Sinn Féin,5934.44,Q2076187,2003 Assembly Election,5
+Q501860,Margaret Ritchie,Q175443,Social Democratic and Labour Party,5733.96,Q2076187,2003 Assembly Election,6
+Q5325535,Eamon O'Neill,Q175443,Social Democratic and Labour Party,5697.52,Q2076187,2003 Assembly Election,7
+,Jim Donaldson,Q841045,Ulster Unionist Party,3269.42,Q2076187,2003 Assembly Election,8
+,Eamonn McConvey,Q76382,Sinn Féin,2990.30,Q2076187,2003 Assembly Election,9
+,Marion Fitzpatrick,Q175443,Social Democratic and Labour Party,2555.64,Q2076187,2003 Assembly Election,10
+,Raymond Blaney,Q1096979,Green Party of Northern Ireland,851.76,Q2076187,2003 Assembly Election,11
+,Trudy Miller,Q7058538,Northern Ireland Women's Coalition,589.60,Q2076187,2003 Assembly Election,12
+,Neil Powell,Q244927,Alliance Party of Northern Ireland,495.48,Q2076187,2003 Assembly Election,13
+,Nelson Wharton,Q985706,UK Unionist Party,362.72,Q2076187,2003 Assembly Election,14
+Q6740829,Malachi Curran,Q327591,Independent (politician),162.08,Q2076187,2003 Assembly Election,15
+Q5263539,Desmond O'Hagan,Q1860218,Workers' Party of Ireland,115.08,Q2076187,2003 Assembly Election,16
+Q5336300,Eddie McGrady,Q175443,Social Democratic and Labour Party,10373,Q2076208,1998 Assembly Election,1
+Q16106022,Mick Murphy,Q76382,Sinn Féin,7761.08,Q2076208,1998 Assembly Election,2
+Q5262833,Dermot Nesbitt,Q841045,Ulster Unionist Party,7770.99,Q2076208,1998 Assembly Election,3
+Q16105286,P. J. Bradley,Q175443,Social Democratic and Labour Party,7390.23,Q2076208,1998 Assembly Election,4
+Q6198868,Jim Wells,Q215519,Democratic Unionist Party,8170.34,Q2076208,1998 Assembly Election,5
+Q5325535,Eamon O'Neill,Q175443,Social Democratic and Labour Party,6163.20,Q2076208,1998 Assembly Election,6
+Q16190238,Hugh Carr,Q175443,Social Democratic and Labour Party,5186.72,Q2076208,1998 Assembly Election,7
+,Frederick Wharton,Q985706,UK Unionist Party,3313.71,Q2076208,1998 Assembly Election,8
+,Anne Carr,Q7058538,Northern Ireland Women's Coalition,2955.57,Q2076208,1998 Assembly Election,9
+,Norman Hanna,Q841045,Ulster Unionist Party,2647.65,Q2076208,1998 Assembly Election,10
+,Garret O'Fachtna,Q76382,Sinn Féin,1716.73,Q2076208,1998 Assembly Election,11
+,Anne-Marie Cunningham,Q244927,Alliance Party of Northern Ireland,1697.50,Q2076208,1998 Assembly Election,12
+Q5539845,George Graham,Q6017344,Independent Unionist,1578.51,Q2076208,1998 Assembly Election,13
+Q6740829,Malachi Curran,Q6467508,Labour Party of Northern Ireland,634.01,Q2076208,1998 Assembly Election,14
+Q5263539,Des O'Hagan,Q1860218,Workers' Party of Ireland,151.17,Q2076208,1998 Assembly Election,15
+,Patrick O'Connor,Q327591,Independent Labour,148.84,Q2076208,1998 Assembly Election,16
+,Thomas Mullins,Q491782,Natural Law Party,38.51,Q2076208,1998 Assembly Election,17
+Q300292,Jeffrey Donaldson,Q841045,Ulster Unionist Party,17528,Q11918778,17 October 1985 by-election,1
+,Ethel Smyth,Q6017344,Independent Unionist,2838,Q11918778,17 October 1985 by-election,2
+Q5486569,Frank Feely,Q175443,Social Democratic and Labour Party,7391,Q11918778,1982 Assembly election,1
+Q5336300,Eddie McGrady,Q175443,Social Democratic and Labour Party,7636,Q11918778,1982 Assembly election,2
+Q8006011,William Brown,Q841045,Ulster Unionist Party,7593,Q11918778,1982 Assembly election,3
+Q7147376,Patrick O'Donoghue,Q175443,Social Democratic and Labour Party,8181,Q11918778,1982 Assembly election,4
+Q7299005,Raymond McCullough,Q841045,Ulster Unionist Party,9553,Q11918778,1982 Assembly election,5
+Q5539845,George Graham,Q215519,Democratic Unionist Party,7596,Q11918778,1982 Assembly election,6
+Q6198868,Jim Wells,Q215519,Democratic Unionist Party,5937,Q11918778,1982 Assembly election,7
+,Patrick Forde,Q244927,Alliance Party of Northern Ireland,5101,Q11918778,1982 Assembly election,8
+,William Coulter,Q841045,Ulster Unionist Party,4663,Q11918778,1982 Assembly election,9
+Q5200897,Cyril Toman,Q76382,Sinn Féin,3806,Q11918778,1982 Assembly election,10
+,William Martin,Q841045,Ulster Unionist Party,3798,Q11918778,1982 Assembly election,11
+,Ethel Smyth,Q215519,Democratic Unionist Party,3508,Q11918778,1982 Assembly election,12
+,Thomas Moore,Q1860218,Workers' Party of Ireland,1676,Q11918778,1982 Assembly election,13
+Q5486569,Frank Feely,Q175443,Social Democratic and Labour Party,9730,Q7058486,1975 Constitutional Convention,1
+Q5056114,Cecil Harvey,Q3896802,Vanguard Progressive Unionist Party,8843,Q7058486,1975 Constitutional Convention,2
+Q5336300,Eddy McGrady,Q175443,Social Democratic and Labour Party,8560.28,Q7058486,1975 Constitutional Convention,3
+Q7147376,Patrick O'Donoghue,Q175443,Social Democratic and Labour Party,8231.08,Q7058486,1975 Constitutional Convention,4
+Q335547,Brian Faulkner,Q7886826,Unionist Party of Northern Ireland,8512.12,Q7058486,1975 Constitutional Convention,5
+Q7173018,Peter Brush,Q841045,Ulster Unionist Party,6995,Q7058486,1975 Constitutional Convention,6
+Q16012796,Herbert Heslip,Q841045,Ulster Unionist Party,6838.18,Q7058486,1975 Constitutional Convention,7
+,David Herron,Q215519,Democratic Unionist Party,4624.66,Q7058486,1975 Constitutional Convention,8
+,Anthony Williamson,Q244927,Alliance Party of Northern Ireland,2136.46,Q7058486,1975 Constitutional Convention,9
+,Denys Rowan-Hamilton,Q244927,Alliance Party of Northern Ireland,1950.58,Q7058486,1975 Constitutional Convention,10
+,Raymond Blaney,Q1860218,Republican Clubs,1673.50,Q7058486,1975 Constitutional Convention,11
+Q2165637,Ronald Broadhurst,Q7886826,Unionist Party of Northern Ireland,1007.08,Q7058486,1975 Constitutional Convention,12
+,Gerard O'Hanlon,Q1860218,Republican Clubs,843.30,Q7058486,1975 Constitutional Convention,13
+Q335547,Brian Faulkner,Q841045,Ulster Unionist Party,16287,Q7058471,1973 Assembly election,1
+Q5336300,Eddy McGrady,Q175443,Social Democratic and Labour Party,8050.01,Q7058471,1973 Assembly election,2
+Q2165637,Ronald Broadhurst,Q841045,Ulster Unionist Party,9108.64,Q7058471,1973 Assembly election,3
+Q5486569,Frank Feely,Q175443,Social Democratic and Labour Party,9190.30,Q7058471,1973 Assembly election,4
+Q7147376,Patrick O'Donoghue,Q175443,Social Democratic and Labour Party,8225.69,Q7058471,1973 Assembly election,5
+Q5056114,Cecil Harvey,Q3896802,Vanguard Progressive Unionist Party,9485.59,Q7058471,1973 Assembly election,6
+Q16012796,Herbert Heslip,Q841045,Ulster Unionist Party,7177.36,Q7058471,1973 Assembly election,7
+,Anthony Williamson,Q244927,Alliance Party of Northern Ireland,4954.50,Q7058471,1973 Assembly election,8
+,David Herron,Q215519,Democratic Unionist Party,4819.34,Q7058471,1973 Assembly election,9
+,Rory McShane,Q327591,Independent (politician),4061.14,Q7058471,1973 Assembly election,10
+,William Martin,Q841045,Ulster Unionist Party,3865.12,Q7058471,1973 Assembly election,11
+Q16012852,James O'Reilly,Q16847164,Independent Republican (Ireland),2447.04,Q7058471,1973 Assembly election,12
+,Michael O'Shea,Q244927,Alliance Party of Northern Ireland,2209.04,Q7058471,1973 Assembly election,13
+,Denys Rowan-Hamilton,Q244927,Alliance Party of Northern Ireland,1483.28,Q7058471,1973 Assembly election,14
+,Noel Collins,Q1860218,Republican Clubs,1402.10,Q7058471,1973 Assembly election,15
+,Arthur Doran,Q327591,Independent (politician),705.14,Q7058471,1973 Assembly election,16
+,Edward O'Hagan,Q1860218,Republican Clubs,695.53,Q7058471,1973 Assembly election,17
+,William Annett,Q158093,National Front (UK),672.52,Q7058471,1973 Assembly election,18
+,Samuel Dowling,Q1860218,Republican Clubs,502.02,Q7058471,1973 Assembly election,19
+,Berkley Farr,Q7879983,Ulster Liberal Party,279.32,Q7058471,1973 Assembly election,20
